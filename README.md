@@ -15,7 +15,7 @@ A list of useful resources.
 
 * [Semantic Scholar](https://www.semanticscholar.org/): a database of research articles with a slick search interface
 * [Papers we Love](https://github.com/papers-we-love/papers-we-love): curated CS papers
-* [the morning paper](https://github.com/papers-we-love/papers-we-love): each day, an explanation of a cool programming paper
+* [the morning paper](https://blog.acolyer.org/): each day, an explanation of a cool programming paper
 
 
 
