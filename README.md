@@ -18,6 +18,10 @@ A list of useful resources.
 * [the morning paper](https://blog.acolyer.org/): each day, an explanation of a cool programming paper
 
 
+### Stats
+
+* [Seeing Theory](http://students.brown.edu/seeing-theory/): visual explanation of stats concepts.
+
 
 
 
